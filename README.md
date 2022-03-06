@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, C++.
 
    
-  ## 📬Connect with me
+## 📬Connect with me
     
   <a href="https://twitter.com/imsudharshan281">
     <img align="left" alt="Hargun | Twitter" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/twitter.svg" />
