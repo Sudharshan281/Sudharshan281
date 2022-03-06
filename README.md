@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudharshan</h1>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/fetch/w300-preview/1a/1a1925b1de116058e74cecebbce92eb6.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m a Student at **IIT Tirupati**
 - 🌱 I’m currently learning **Python, C++**
