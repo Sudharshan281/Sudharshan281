@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    
   ## Connect with me
     
-  <a href="https://twitter.com/sahni_hargun">
+  <a href="https://twitter.com/imsudharshan281">
     <img align="left" alt="Hargun | Twitter" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/twitter.svg" />
   </a>
     <a href="https://www.linkedin.com/in/s-sudharshan-b55179230/">
