@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudharshan</h1>
-- 🔭 I’m a Student at **IIT Tirupati**
 
+- 🔭 I’m a Student at **IIT Tirupati**
 - 🌱 I’m currently learning **Python, C++**
 
 <h3 align="left">Connect with me:</h3>
