@@ -4,7 +4,14 @@
 - 🌱 I’m currently learning **Python, C++**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">  <a href="https://twitter.com/imsudharshan281">
+  <img align="left" alt="Sudharshan | Twitter" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/twitter.svg" />
+</a>
+    <a href="https://www.linkedin.com/in/s-sudharshan-b55179230/">
+ <img align="left" alt="Sudharshan | Linkedin" width="24px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/linked.svg" />
+  </a>
+     <a href="https://www.hackerrank.com/sudharshan281">
+    <img align="left" alt="Sudharshan | Hackerrank" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/hackerrack.svg" />
 
 </p>
 
