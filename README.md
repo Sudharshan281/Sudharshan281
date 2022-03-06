@@ -1,4 +1,5 @@
-## Hi there 👋, I'm Sudharshan
+## Hi there ![PandaHiGIF](https://user-images.githubusercontent.com/93808025/156906868-04ed92a9-b684-44b2-a4c2-9ae422cd41c0.gif)
+, I'm Sudharshan
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
