@@ -28,7 +28,6 @@ Here are some ideas to get you started:
         <a href="https://twitter.com/imsudharshan281">
         <img align="left" alt="Sudharshan | Linkedin" width="24px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/twitter.svg" />
       </a>
-   </a>
         <a href="https://www.hackerrank.com/sudharshan281">
         <img align="left" alt="Sudharshan | Linkedin" width="24px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/hackerrack.svg" />
       </a>
