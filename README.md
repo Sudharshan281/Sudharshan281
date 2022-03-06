@@ -24,7 +24,7 @@ Here are some ideas to get you started:
    
 ## 📫Connect with me
     
-
+      <a>
       <a href="https://twitter.com/imsudharshan281">
         <img align="left" alt="Sudharshan | Twitter" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/twitter.svg" />
       </a>
