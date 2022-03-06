@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I'm Sudharshan
+## Hey 👋,I'm Sudharshan
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
@@ -22,12 +22,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, C++.
 
    
-## 📬Connect with me
+## 📫Connect with me
     
-   
-<table>
-  <tbody>
-    <tr valign="top"> 
+
       <a href="https://twitter.com/imsudharshan281">
         <img align="left" alt="Sudharshan | Twitter" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/twitter.svg" />
       </a>
@@ -36,8 +33,3 @@ Here are some ideas to get you started:
       </a>
          <a href="https://www.hackerrank.com/sudharshan281">
         <img align="left" alt="Sudharshan | Hackerrank" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/hackerrack.svg" />
-      </a>
-    </td>
-    </tr>
-  </tbody>
-</table>
