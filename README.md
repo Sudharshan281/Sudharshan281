@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudharshan</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m a Student at **IIT Tirupati**
+- 😎 I'm a student, currently a fresher pursuing B.Tech in CSE at **IIT Tirupati**
 - 🌱 I’m currently learning **Python, C++**
 
 <h3 align="left">Connect with me:</h3>
