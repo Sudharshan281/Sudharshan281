@@ -21,9 +21,12 @@ Here are some ideas to get you started:
 - 🔭 I’m a student at IIT Tirupati.
 - 🌱 I’m currently learning Python, C++.
 
-     <a href="https://www.linkedin.com/in/s-sudharshan-b55179230/">
-    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/linked.svg" />
-  </a>
+   
+  ## Connect with me
+    
   <a href="https://twitter.com/sahni_hargun">
     <img align="left" alt="Hargun | Twitter" width="26px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/twitter.svg" />
+  </a>
+    <a href="https://www.linkedin.com/in/s-sudharshan-b55179230/">
+    <img align="left" alt="Hargun | Linkedin" width="24px" src="https://github.com/Sudharshan281/Sudharshan281/blob/main/linked.svg" />
   </a>
