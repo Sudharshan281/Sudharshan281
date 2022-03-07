@@ -1,8 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sudharshan</h1>
 <img align="right" alt="Coding" width="240" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudharshan281&label=Profile%20views&color=0e75b6&style=flat" alt="sudharshan281" /> </p>
-      <p align="left"> <a href="https://twitter.com/imsudharshan281" target="blank"><img src="https://img.shields.io/twitter/follow/imsudharshan281?logo=twitter&style=for-the-badge" alt="imsudharshan281" /></a> </p>
-
+      
 
 - 😎 I'm a student, currently a fresher pursuing B.Tech in CSE at **IIT Tirupati**
 - 🌱 I’m currently learning **Python, C++**
