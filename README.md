@@ -4,7 +4,7 @@
       
 
 - 😎 I'm a student, currently a fresher pursuing B.Tech in CSE at **IIT Tirupati**
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
